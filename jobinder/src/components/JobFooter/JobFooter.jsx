@@ -54,7 +54,7 @@ const JobFooter = () => {
               </Link>
               <Link
                 className="btn btn-outline-info text-white"
-                to="https://github.com/ROR2022"
+                to="https://github.com/ROR2022/jobinder"
                 role="button"
               >
                 <FaCode />
