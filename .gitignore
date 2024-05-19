@@ -2,3 +2,5 @@ dataEnv/
 node_modules/
 jobinder/node_modules/
 .env
+package-lock.json
+jobinder/package-lock.json
