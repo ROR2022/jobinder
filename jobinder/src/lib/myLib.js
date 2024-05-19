@@ -13,6 +13,6 @@ const nodeEnv = "DEV";
 
 export const backURL =
   nodeEnv === "PRD"
-    ? "https://apiback.jobinder.org/"
+    ? "http://18.222.55.217/"
     : "http://localhost:7500/";
 
