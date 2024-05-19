@@ -1,7 +1,7 @@
 import { getRandomInt } from "../lib/helperLib.js";
 import { sendCodeEmail } from "../lib/nodeMailer.js";
 import User from "../models/user.model.js";
-import JobVacancy from "../models/jobVacancy.model.js";
+//import JobVacancy from "../models/jobvacancy.model.js";
 import bcrypt from "bcrypt";
 import jwt from 'jsonwebtoken';
 import { JWT_EXPIRESIN, JWT_SECRET } from "../config.js";
