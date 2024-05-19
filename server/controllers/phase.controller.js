@@ -1,6 +1,6 @@
 import Phase from '../models/phase.model.js'
 import User from '../models/user.model.js'
-import JobVacancy from '../models/jobVacancy.model.js'
+import JobVacancy from '../models/jobvacancy.model.js'
 import { notificationContratado, notificationPhaseEmailUser } from '../lib/nodeMailer.js'
 //import jwt from 'jsonwebtoken'
 

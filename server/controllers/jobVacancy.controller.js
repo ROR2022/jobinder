@@ -1,4 +1,4 @@
-import JobVacancy from "../models/jobVacancy.model.js";
+import JobVacancy from "../models/jobvacancy.model.js";
 import User from "../models/user.model.js";
 import { uploadOneFileToBucket } from "../lib/awsLib.js";
 import { AWS_BUCKETNAME } from "../config.js";
