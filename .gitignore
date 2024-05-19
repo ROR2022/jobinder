@@ -1,0 +1,4 @@
+dataEnv/
+node_modules/
+jobinder/node_modules/
+.env

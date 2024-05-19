@@ -1,0 +1,5 @@
+.hoverImage:hover {
+    background-color: #fff!important;
+    cursor: pointer;
+    transition: 0.3s;
+}
