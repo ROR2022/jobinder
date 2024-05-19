@@ -17,6 +17,7 @@ app.use(cors());
 app.use( bodyParser.urlencoded({ extended: true }) );
 app.use( bodyParser.json() );
 app.use(express.json())
+app.use(express.static(join(__dirname, "../jobinder/dist")));
 app.use(fileUpload({
     useTempFiles: true,
     tempFileDir: './upload',
